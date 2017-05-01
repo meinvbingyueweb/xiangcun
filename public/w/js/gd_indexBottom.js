@@ -1,0 +1,3 @@
+/*document.writeln("<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>");document.writeln("<ins class=\"adsbygoogle\"");document.writeln("     style=\"display:inline-block;width:970px;height:90px\"");document.writeln("     data-ad-client=\"ca-pub-7596966840606135\"");document.writeln("     data-ad-slot=\"3890398743\"></ins>");document.writeln("<script>");document.writeln("(adsbygoogle = window.adsbygoogle || []).push({});");document.writeln("</script>");*/
+
+//document.writeln("<\script src='http://f.e719.net/cpf/index.php?63557_1|1|1__0_0' charset='gb2312'><\/script>")//////这个检查一下2016-11-21
